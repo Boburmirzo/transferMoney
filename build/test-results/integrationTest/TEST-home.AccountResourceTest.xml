@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="home.AccountResourceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-30T13:35:49" hostname="Boburs-MacBook-Pro.local" time="1.519">
+  <properties/>
+  <testcase name="testCreateAccount" classname="home.AccountResourceTest" time="1.153"/>
+  <testcase name="testGetAccountById" classname="home.AccountResourceTest" time="0.107"/>
+  <testcase name="testGetAllAccounts" classname="home.AccountResourceTest" time="0.117"/>
+  <testcase name="testDeleteAccount" classname="home.AccountResourceTest" time="0.131"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer] Started.
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener shutdownNow
+INFO: Stopped listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer-1] Started.
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener shutdownNow
+INFO: Stopped listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer-2] Started.
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener shutdownNow
+INFO: Stopped listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer-3] Started.
+]]></system-err>
+</testsuite>

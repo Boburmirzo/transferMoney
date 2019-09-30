@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="home.TransferResourceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-09-30T13:35:50" hostname="Boburs-MacBook-Pro.local" time="2.45">
+  <properties/>
+  <testcase name="simpleTransferTest" classname="home.TransferResourceTest" time="0.07"/>
+  <testcase name="testTransferWithLoad" classname="home.TransferResourceTest" time="2.227"/>
+  <testcase name="testTransferWithAmountGreaterThanAccountBalance" classname="home.TransferResourceTest" time="0.151"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener shutdownNow
+INFO: Stopped listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer-4] Started.
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener shutdownNow
+INFO: Stopped listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:50 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer-5] Started.
+Sep 30, 2019 4:35:53 PM org.glassfish.grizzly.http.server.NetworkListener shutdownNow
+INFO: Stopped listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:53 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [0.0.0.0:8080]
+Sep 30, 2019 4:35:53 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer-6] Started.
+]]></system-err>
+</testsuite>
